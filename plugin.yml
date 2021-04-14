@@ -1,0 +1,5 @@
+name: RotationItem
+main: me.Bokum.RRI.RandomRotationItem
+version: 0.01
+description: Made By Bokum
+commands:
